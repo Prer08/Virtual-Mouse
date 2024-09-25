@@ -1,0 +1,2 @@
+# Virtual Mouse
+ This project leverages the power of OpenCV in Python to transform hand gestures into mouse controls. By utilizing computer vision techniques, the system captures real-time video through a webcam, processes the hand movements, and translates them into corresponding mouse actions.                                                                                                          By recognizing specific hand gestures, such as the thumb, index, and middle fingers, the system successfully performed several actions: stop, right-click, and left-click.
